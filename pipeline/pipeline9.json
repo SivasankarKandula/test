@@ -1,0 +1,21 @@
+{
+	"name": "pipeline9",
+	"properties": {
+		"activities": [
+			{
+				"name": "BlobToBlobCPy",
+				"type": "ExecutePipeline",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "BlobToBlobCPy",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true
+				}
+			}
+		],
+		"annotations": []
+	}
+}
