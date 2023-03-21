@@ -2,7 +2,7 @@
 	"name": "datafactoryzv7rcm3kyd6lk",
 	"properties": {
 		"globalConfigurations": {
-			"PipelineBillingEnabled": "true"
+			"PipelineBillingEnabled": "false"
 		}
 	},
 	"location": "eastus",
