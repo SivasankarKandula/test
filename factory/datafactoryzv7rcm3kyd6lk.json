@@ -1,10 +1,5 @@
 {
 	"name": "datafactoryzv7rcm3kyd6lk",
-	"properties": {
-		"globalConfigurations": {
-			"PipelineBillingEnabled": "false"
-		}
-	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
